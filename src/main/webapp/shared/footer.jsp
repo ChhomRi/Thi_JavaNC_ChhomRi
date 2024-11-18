@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <footer class="container">
-            <strong>&copy; 2024 - Sinh viên thực hiện : 2321160086 - Võ Lê Tường Khánh </strong>
+            <strong>&copy; 2024 - Sinh viên thực hiện : 2321160034 - ChhomRi </strong>
         </footer>
 
         <!-- Optional JavaScript -->

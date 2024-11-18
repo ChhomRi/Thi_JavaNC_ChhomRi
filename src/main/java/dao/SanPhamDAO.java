@@ -9,6 +9,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
+import java.util.List;
 import model.SanPham;
 
 /**
@@ -52,6 +53,10 @@ public class SanPhamDAO {
             System.out.println("Loi:" + ex.toString());
         }
         return ds;
+    }
+
+    public List<SanPham> getTop9(int i) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 
     
